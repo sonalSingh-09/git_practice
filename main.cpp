@@ -17,5 +17,6 @@ int main() {
 
     cout << "Product of " << a << " and " << b << "= "<<a*b<< endl;
     cout << "Division of " << a << " and " << b << "= "<<a/b<< endl;
+    cout << "Thank you for using the program!" << endl;
     return 0;
 }
