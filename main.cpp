@@ -10,7 +10,8 @@ int main() {
     cout << "Enter second number: ";
     cin >> b;
 
-    cout << "Sum = " << a + b << endl;
+    cout << "Sum of " << a << " and " << b << "= "<<a+b<< endl;
+    
 
     return 0;
 }
